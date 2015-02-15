@@ -1,16 +1,34 @@
-=== SMEW Comic Easel <3 s2member ===
+=== SMEW Comic Easel &hearts; s2Member ===
 Contributors: Christina "Smudge" Hanson
 Author URI: http://www.smudgemarks-engelwerks.com
+Tags: Comic Easel, s2member, drip feed, comic, webcomic
 Requires at least: 3.0
 Tested up to: 4
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+s2member integration for Comic Easel for drip feeding of comic posts.
+
+== Description ==
 
 s2member integration for Comic Easel for drip feeding of comic posts. Will let subscribers 'preview' comics for specified times before opening up to the wide world based on user roles. Will also allow different size images to be displayed based on user roles. Only works on Single Posts.
 
-Known Issues: This plugin currently breaks Image Maps and Light Box use inside of Comic Easel. It is recommended you do not use this plugin until the next revision of both SMEW Comic Easel <3 s2member and Comic Easel if either of those two functions are nessassery for your site.
+Both [Comic Easel] (https://wordpress.org/plugins/comic-easel/) and [s2Member Framework] (https://wordpress.org/plugins/s2member/) plugins are required.
 
-Upcoming: Adding a backend setting UI to change things such as the custom post type slug name. Fix for the Image Map and Light Box issue coming with next revision of both SMEW Comic Easel <3 s2member and Comic Easel (will require both). Add discriptions to Settings page.
+== Known Issues ==
+* This plugin currently breaks Image Maps and Light Box use inside of Comic Easel. It is recommended you do not use this plugin until the next revision of both SMEW Comic Easel <3 s2member and Comic Easel if either of those two functions are nessassery for your site.
+
+== Upcoming ==
+* Adding a backend setting UI to change things such as the custom post type slug name.
+* Fix for the Image Map and Light Box issue coming with next revision of both SMEW Comic Easel <3 s2member and Comic Easel (will require both).
+* Add descriptions to Settings page.
 
 == Changelog ==
+
+= 0.1.4.1 =
+
+Cleaning up the Readme text for display on the WordPress.org Plugins repository. No codeing changes made.
 
 = 0.1.4 =
 
@@ -35,4 +53,3 @@ Changed plugin/file name to 'SMEW Comic Easel <3 s2member' to avoid lookup confu
 = 0.1 =
 
 * Initial Release
-
